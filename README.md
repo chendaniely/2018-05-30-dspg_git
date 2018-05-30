@@ -11,3 +11,5 @@
 commit it
     - this will open a text editor for you to write your 
 message
+    - `git commit -m "message"`: will allow you to write a 
+commit message in a single line
