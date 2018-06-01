@@ -20,4 +20,5 @@ commit message in a single line
 - use `git checkout MY_BRANCH_NAME` to go to that branch.
 - look at where things are with `status` or `log --oneline --all`
 
-- an automatic merge happens when you edit a file in different locations
+- An automerge happens when you edit a file in different locations
+
