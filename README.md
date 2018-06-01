@@ -13,3 +13,9 @@ commit it
 message
     - `git commit -m "message"`: will allow you to write a 
 commit message in a single line
+
+# Branching in Git
+
+- use `git branch MY_BANCH_NAME` to create a new branch.
+- use `git checkout MY_BRANCH_NAME` to go to that branch.
+- look at where things are with `status` or `log --oneline --all`
