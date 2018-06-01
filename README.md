@@ -1,4 +1,4 @@
-# Intro to git for DSPG
+# Intro and branching for DSPG
 
 - `git init`: initialize a respostory
     - only type this once, do not 'nest' your repositories
