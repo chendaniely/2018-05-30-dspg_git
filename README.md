@@ -22,3 +22,6 @@ commit message in a single line
 
 - An auto-merge happens when you edit a file in different locations
 - A merge conflict happens when you edit it in the same location
+
+- You can create a Pull Request (merge requests) when you push a branch to 
+a remote
