@@ -1,4 +1,4 @@
-# Intro to git for DSPG
+# Intro and branching for DSPG
 
 - `git init`: initialize a respostory
     - only type this once, do not 'nest' your repositories
@@ -13,3 +13,15 @@ commit it
 message
     - `git commit -m "message"`: will allow you to write a 
 commit message in a single line
+
+# Branching in Git
+
+- use `git branch MY_BANCH_NAME` to create a new branch.
+- use `git checkout MY_BRANCH_NAME` to go to that branch.
+- look at where things are with `status` or `log --oneline --all`
+
+- An auto-merge happens when you edit a file in different locations
+- A merge conflict happens when you edit it in the same location
+
+- You can create a Pull Request (merge requests) when you push a branch to 
+a remote
